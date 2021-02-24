@@ -45,6 +45,10 @@ def convert_one(ma_file, config, new_ma_file):
 def func():
     pass
 
+
+def func1():
+    pass
+
 def main():
     # get ma files <= ma/
     # get config file <= ./config.txt
