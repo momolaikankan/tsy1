@@ -42,7 +42,8 @@ def convert_one(ma_file, config, new_ma_file):
     for every src,dst from config
         replace content src to dst
     write content to new_ma_file
-
+def func():
+    pass
 
 def main():
     # get ma files <= ma/
