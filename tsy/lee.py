@@ -71,3 +71,5 @@ b.travel()
 c = MyAdd()
 c.myadd(a.head,b.head)
 c.travel()
+for i in range(10):
+    print(i)
